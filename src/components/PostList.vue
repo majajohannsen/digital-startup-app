@@ -64,6 +64,9 @@ export default {
 .grid-container a {
   text-decoration: none;
   color: black;
+}
 
+button {
+  padding: 2%;
 }
 </style>
